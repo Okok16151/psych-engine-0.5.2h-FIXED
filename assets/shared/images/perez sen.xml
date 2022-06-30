@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="perez sen.png">
+<SubTexture name="perez luces0000" x="0" y="0" width="541" height="299" frameX="-2" frameY="-100" frameWidth="1852" frameHeight="1305" />
+<SubTexture name="perez luces0001" x="541" y="0" width="541" height="299" frameX="0" frameY="-102" frameWidth="1852" frameHeight="1305" />
+<SubTexture name="perez luces0002" x="0" y="299" width="541" height="299" frameX="0" frameY="-101" frameWidth="1852" frameHeight="1305" />
+<SubTexture name="perez luces0003" x="541" y="299" width="541" height="299" frameX="0" frameY="-101" frameWidth="1852" frameHeight="1305" />
+<SubTexture name="perez luces0004" x="0" y="597" width="541" height="299" frameX="-1" frameY="-100" frameWidth="1852" frameHeight="1305" />
+<SubTexture name="perez luces0005" x="541" y="597" width="541" height="299" frameX="-1" frameY="-100" frameWidth="1852" frameHeight="1305" />
+</TextureAtlas>
