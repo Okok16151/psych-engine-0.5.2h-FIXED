@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				72543.1034482758,
+				[
+					[
+						"Change Character",
+						"BF",
+						"pico-cutscene"
+					]
+				]
+			],
+			[
+				82758.6206896551,
+				[
+					[
+						"Change Character",
+						"BF",
+						"pico-player2"
+					]
+				]
+			],
+			[
+				120827.586206896,
+				[
+					[
+						"Play Animation",
+						"die bitch",
+						"GF"
+					]
+				]
+			],
+			[
+				122482.75862069,
+				[
+					[
+						"Change Character",
+						"2",
+						"bfded"
+					]
+				]
+			]
+		]
+	}
+}
