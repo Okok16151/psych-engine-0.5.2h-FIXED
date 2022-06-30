@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dedBF.png">
+<SubTexture name="bf dies headbeat0000" x="866" y="1746" width="436" height="429" frameX="0" frameY="-9" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0001" x="1302" y="1746" width="436" height="429" frameX="0" frameY="-9" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0002" x="0" y="1746" width="433" height="430" frameX="-3" frameY="-8" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0003" x="433" y="1746" width="433" height="430" frameX="-3" frameY="-8" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0004" x="894" y="1312" width="431" height="432" frameX="-6" frameY="-6" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0005" x="1325" y="1312" width="431" height="432" frameX="-6" frameY="-6" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0006" x="868" y="875" width="431" height="435" frameX="-9" frameY="-3" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0007" x="1299" y="875" width="431" height="435" frameX="-9" frameY="-3" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0008" x="870" y="0" width="433" height="437" frameX="-9" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0009" x="870" y="0" width="433" height="437" frameX="-9" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0010" x="0" y="438" width="434" height="437" frameX="-9" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0011" x="0" y="438" width="434" height="437" frameX="-9" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0012" x="434" y="438" width="434" height="437" frameX="-9" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0013" x="0" y="438" width="434" height="437" frameX="-9" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0014" x="431" y="875" width="437" height="436" frameX="-9" frameY="-2" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0015" x="0" y="1312" width="447" height="434" frameX="0" frameY="-4" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0016" x="447" y="1312" width="447" height="434" frameX="0" frameY="-4" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0017" x="1742" y="0" width="443" height="435" frameX="-3" frameY="-3" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0018" x="1742" y="435" width="443" height="435" frameX="-3" frameY="-3" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0019" x="1303" y="0" width="439" height="437" frameX="-6" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0020" x="1303" y="437" width="439" height="437" frameX="-6" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0021" x="0" y="0" width="435" height="438" frameX="-9" frameY="0" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0022" x="435" y="0" width="435" height="438" frameX="-9" frameY="0" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0023" x="868" y="438" width="432" height="437" frameX="-9" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0024" x="868" y="438" width="432" height="437" frameX="-9" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0025" x="0" y="875" width="431" height="437" frameX="-9" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0026" x="0" y="875" width="431" height="437" frameX="-9" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0027" x="0" y="875" width="431" height="437" frameX="-9" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0028" x="0" y="875" width="431" height="437" frameX="-9" frameY="-1" frameWidth="447" frameHeight="438" />
+<SubTexture name="bf dies headbeat0029" x="1742" y="870" width="427" height="435" frameX="-9" frameY="-3" frameWidth="447" frameHeight="438" />
+</TextureAtlas>
